@@ -2,6 +2,12 @@ Hi there, 👋 <br>
  <br>
 My name's Assaf, I'm a self-made DevOps Engineer, currently enrolled in Technion's DevOps program.
 
+##### Contact Me
+
+**Email**: <a href="mailto:assafxdori@gmail.com" target="_blank">assafxdori@gmail.com</a><br>
+**LinkedIn**: <a href="https://www.linkedin.com/in/assafdori/" target="_blank">https://www.linkedin.com/in/assafdori</a><br>
+**Docker Hub**: <a href="https://hub.docker.com/u/asixl" target="_blank">https://hub.docker.com/u/asixl</a><br>
+
 ##### Languages Stack
 <p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/b15b6cf1726418913aafbf337a749dded180279d/topics/groovy/groovy.png" alt="groovy" title="groovy" width="40" height="40"/>  <img </p>
 

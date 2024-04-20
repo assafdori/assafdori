@@ -6,7 +6,7 @@ My name's Assaf, I'm a self-made DevOps Engineer, currently enrolled in Technion
 
 **Email**: <a href="mailto:assafxdori@gmail.com" target="_blank">assafxdori@gmail.com</a><br>
 **LinkedIn**: <a href="https://www.linkedin.com/in/assafdori/" target="_blank">https://www.linkedin.com/in/assafdori</a><br>
-**Docker Hub**: <a href="https://hub.docker.com/u/asixl" target="_blank">https://hub.docker.com/u/asixl</a><br>
+**Website**: <a href="https://www.assafdori.com" target="_blank">https://www.assafdori.com</a><br>
 
 ##### DevOps Projects
 [Terminal Resume](https://medium.com/@assafxdori/my-first-devops-project-1-2158548d7e03)  

@@ -9,7 +9,9 @@ My name's Assaf, I'm a self-made DevOps Engineer, currently enrolled in Technion
 **Website**: <a href="https://www.assafdori.com" target="_blank">https://www.assafdori.com</a><br>
 
 ##### DevOps Projects
-[Terminal Resume](https://medium.com/@assafxdori/my-first-devops-project-1-2158548d7e03)  
+[Terminal Resume](https://medium.com/@assafxdori/my-first-devops-project-1-2158548d7e03)
+[K8s MongoDB](https://github.com/assafdori/k8s-mongo)  
+
 
 ##### Languages Stack
 <p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/b15b6cf1726418913aafbf337a749dded180279d/topics/groovy/groovy.png" alt="groovy" title="groovy" width="40" height="40"/>  <img </p>

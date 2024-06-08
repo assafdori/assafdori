@@ -9,9 +9,9 @@ My name's Assaf, I'm a self-made DevOps Engineer, currently enrolled in Technion
 **LinkedIn**: <a href="https://www.linkedin.com/in/assafdori/" target="_blank">https://www.linkedin.com/in/assafdori</a><br>
 
 ##### DevOps Projects
-[Terminal Resume](https://medium.com/@assafxdori/my-first-devops-project-1-2158548d7e03)  
-[Terminal Resume](https://github.com/assafdori/resume-app)  
-[Terminal Resume](https://github.com/assafdori/resume-app-iac)  
+[Terminal Resume, Medium Blogpost](https://medium.com/@assafxdori/my-first-devops-project-1-2158548d7e03)  
+[Terminal Resume, Application Repo](https://github.com/assafdori/resume-app)  
+[Terminal Resume, IaC Repo](https://github.com/assafdori/resume-app-iac)  
 
 
 

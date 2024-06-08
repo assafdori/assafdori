@@ -10,7 +10,9 @@ My name's Assaf, I'm a self-made DevOps Engineer, currently enrolled in Technion
 
 ##### DevOps Projects
 [Terminal Resume](https://medium.com/@assafxdori/my-first-devops-project-1-2158548d7e03)  
-[K8s MongoDB](https://github.com/assafdori/k8s-mongodb)  
+[Terminal Resume](https://github.com/assafdori/resume-app)  
+[Terminal Resume](https://github.com/assafdori/resume-app-iac)  
+
 
 
 ##### Languages Stack

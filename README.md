@@ -2,6 +2,8 @@ Hi there, 👋 <br>
  <br>
 My name's Assaf, I'm a self-taught DevOps Engineer, currently enrolled in Technion's DevOps program.
 
+![assafdori’s GitHub image](https://scastiel.dev/api/image/assafdori?dark&removeLink)
+
 ##### Contact Me
 
 **Website**: <a href="https://www.assafdori.com" target="_blank">https://www.assafdori.com</a><br>

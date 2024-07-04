@@ -2,16 +2,17 @@ Hi there, 👋 <br>
  <br>
 My name's Assaf, I'm a self-taught DevOps Engineer, currently enrolled in Technion's DevOps program.
 
-##### Contact Me
+#### Contact Me
 
 **Website**: <a href="https://www.assafdori.com" target="_blank">https://www.assafdori.com</a><br>
 **Email**: <a href="mailto:assafxdori@gmail.com" target="_blank">assafxdori@gmail.com</a><br>
 **LinkedIn**: <a href="https://www.linkedin.com/in/assafdori/" target="_blank">https://www.linkedin.com/in/assafdori</a><br>
 
-##### DevOps Projects
-[Terminal Resume, Medium Blogpost](https://medium.com/@assafxdori/my-first-devops-project-1-2158548d7e03)  
-[Terminal Resume, Application Repo](https://github.com/assafdori/resume-app)  
-[Terminal Resume, IaC Repo](https://github.com/assafdori/resume-app-iac)  
+#### Projects
+[Terminal Resume, Medium Blogpost](https://medium.com/@assafxdori/my-first-devops-project-1-2158548d7e03)
+[Terminal Resume, Application Repo](https://github.com/assafdori/resume-app)
+[Terminal Resume, IaC Repo](https://github.com/assafdori/resume-app-iac)
+[Kubernetes, Pod to S3](https://github.com/assafdori/pod-to-s3)  
 
 
 

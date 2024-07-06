@@ -9,10 +9,9 @@ My name's Assaf, I'm a self-taught DevOps Engineer, currently enrolled in Techni
 **LinkedIn**: <a href="https://www.linkedin.com/in/assafdori/" target="_blank">https://www.linkedin.com/in/assafdori</a><br>
 
 #### Projects
-[Terminal Resume, Medium Blogpost](https://medium.com/@assafxdori/my-first-devops-project-1-2158548d7e03)  
-[Terminal Resume, Application Repo](https://github.com/assafdori/resume-app)  
-[Terminal Resume, IaC Repo](https://github.com/assafdori/resume-app-iac)  
-[Kubernetes, Pod to S3](https://github.com/assafdori/pod-to-s3)  
+[CI/CD Pipeline - Application Repo](https://github.com/assafdori/resume-app)  
+[CI/CD Pipeline - IaC Repo](https://github.com/assafdori/resume-app-iac)  
+[Kubernetes -  Pod to S3](https://github.com/assafdori/pod-to-s3)  
 
 
 

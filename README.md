@@ -13,6 +13,7 @@ My name's Assaf, I'm a self-taught DevOps Engineer, currently enrolled in Techni
 [CI/CD Pipeline ♻️ - Infrastructure as Code](https://github.com/assafdori/resume-app-iac)  
 [Kubernetes ⛴️ -  Pod to S3](https://github.com/assafdori/pod-to-s3)  
 [EKS 🎡 -  Pod Identity](https://github.com/assafdori/pod-identity)  
+[Lambda 🧪 -  Data Transfer](https://github.com/assafdori/lambda-s3)  
 
 
 

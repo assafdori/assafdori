@@ -12,7 +12,7 @@ My name's Assaf, I'm a self-taught DevOps Engineer, currently enrolled in Techni
 [CI/CD Pipeline ♻️ - Application](https://github.com/assafdori/resume-app)  
 [CI/CD Pipeline ♻️ - Infrastructure as Code](https://github.com/assafdori/resume-app-iac)  
 [Kubernetes ⛴️ -  Pod to S3](https://github.com/assafdori/pod-to-s3)  
-[EKS 🎡 -  Pod Identity](https://github.com/assafdori/pod-identity)  
+[EKS 🎡 -  Pod Identity Association](https://github.com/assafdori/pod-identity)  
 [Argo CD 📀 -  GitOps App](https://github.com/assafdori/argo-cd)  
 [Lambda 🧪 -  Data Transfer](https://github.com/assafdori/lambda-s3)  
 
@@ -20,7 +20,7 @@ My name's Assaf, I'm a self-taught DevOps Engineer, currently enrolled in Techni
 
 
 ##### Languages Stack
-<p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/b15b6cf1726418913aafbf337a749dded180279d/topics/groovy/groovy.png" alt="groovy" title="groovy" width="40" height="40"/>  <img </p>
+<p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> <img </p>
 
 ##### Operation Systems Stack
 <p align="left"><img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-icon.svg" alt="alpine" title="alpine" width="40" height="40"/>

@@ -1,4 +1,4 @@
-Hi there, 👋 <br>
+Hi there 👋 <br>
  <br>
 My name's Assaf, I'm a self-taught DevOps Engineer, currently enrolled in Technion's DevOps program.
 

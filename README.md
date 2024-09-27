@@ -1,6 +1,6 @@
 Hi there 👋 <br>
  <br>
-My name's Assaf, I'm a self-taught DevOps Engineer, currently enrolled in Technion's DevOps program.
+My name's Assaf and I'm a DevOps Engineer.
 
 #### Contact Me
 

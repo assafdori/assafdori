@@ -1,6 +1,6 @@
 Hi there 👋 <br>
  <br>
-My name's Assaf and I'm a DevOps Engineer.
+My name's Assaf and I enjoy DevOps. I also work as a DevOps Engineer.
 
 #### Contact Me
 

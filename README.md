@@ -4,7 +4,7 @@ My name's Assaf and I enjoy DevOps. I also work as a DevOps Engineer.
 
 #### Contact Me
 
-**Website**: <a href="https://www.assafdori.com" target="_blank">https://www.assafdori.com</a><br>
+**Website**: <a href="https://assafdori.com" target="_blank">https://assafdori.com</a><br>
 **Email**: <a href="mailto:hi@assafdori.com" target="_blank">hi@assafdori.com</a><br>
 **LinkedIn**: <a href="https://www.linkedin.com/in/assafdori/" target="_blank">https://www.linkedin.com/in/assafdori</a><br>
 

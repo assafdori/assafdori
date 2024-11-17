@@ -7,16 +7,16 @@ My name's Assaf and I enjoy DevOps.
 **Website**: <a href="https://assafdori.com" target="_blank">https://assafdori.com</a><br>
 **Email**: <a href="mailto:hi@assafdori.com" target="_blank">hi@assafdori.com</a><br>
 **LinkedIn**: <a href="https://www.linkedin.com/in/assafdori/" target="_blank">https://www.linkedin.com/in/assafdori</a><br>
-
-#### Projects
+<!--#### Projects
 [CI/CD Pipeline ♻️ - Application](https://github.com/assafdori/resume-app)  
 [CI/CD Pipeline ♻️ - Infrastructure as Code](https://github.com/assafdori/resume-app-iac)  
 [Kubernetes ⛴️ -  Pod to S3](https://github.com/assafdori/pod-to-s3)  
 [EKS 🎡 -  Pod Identity Association](https://github.com/assafdori/pod-identity)  
 [Argo CD 📀 -  GitOps App](https://github.com/assafdori/argo-cd)  
 [Lambda 🧪 -  Data Transfer](https://github.com/assafdori/lambda-s3)  
-
-
+-->
+##### Currently, I am...
+Working as a DevOps Engineer @ Compie Technologies
 
 
 ##### Languages Stack

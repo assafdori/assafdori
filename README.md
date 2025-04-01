@@ -1,6 +1,8 @@
-Hi there 👋 <br>
+I do: <br>
  <br>
-My name's Assaf and I enjoy DevOps. 
+🏗️ Infra that works.
+🔧 Pipelines that ship.
+🚨 Monitoring that matters.
 
 #### Contact Me
 

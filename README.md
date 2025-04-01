@@ -1,25 +1,11 @@
 I do: <br>
  <br>
 🏗️ Infra that works. <br>
-🔧 Pipelines that ship. <br>
+♻️ Pipelines that ship. <br>
 🚨 Monitoring that matters. <br>
 
-Get in touch:
-
-**Website**: <a href="https://assafdori.com" target="_blank">https://assafdori.com</a><br>
-**Email**: <a href="mailto:hi@assafdori.com" target="_blank">hi@assafdori.com</a><br>
-**LinkedIn**: <a href="https://www.linkedin.com/in/assafdori/" target="_blank">https://www.linkedin.com/in/assafdori</a><br>
-<!--#### Projects
-[CI/CD Pipeline ♻️ - Application](https://github.com/assafdori/resume-app)  
-[CI/CD Pipeline ♻️ - Infrastructure as Code](https://github.com/assafdori/resume-app-iac)  
-[Kubernetes ⛴️ -  Pod to S3](https://github.com/assafdori/pod-to-s3)  
-[EKS 🎡 -  Pod Identity Association](https://github.com/assafdori/pod-identity)  
-[Argo CD 📀 -  GitOps App](https://github.com/assafdori/argo-cd)  
-[Lambda 🧪 -  Data Transfer](https://github.com/assafdori/lambda-s3)  
--->
 ##### Currently, I am...
 Working as a DevOps Engineer @ Compie Technologies
-
 
 ##### Languages Stack
 <p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> <img </p>

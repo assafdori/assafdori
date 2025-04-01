@@ -1,8 +1,8 @@
 I do: <br>
  <br>
-🏗️ Infra that works.
-🔧 Pipelines that ship.
-🚨 Monitoring that matters.
+🏗️ Infra that works. <br>
+🔧 Pipelines that ship. <br>
+🚨 Monitoring that matters. <br>
 
 #### Contact Me
 

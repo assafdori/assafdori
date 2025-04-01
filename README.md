@@ -4,7 +4,7 @@ I do: <br>
 🔧 Pipelines that ship. <br>
 🚨 Monitoring that matters. <br>
 
-#### Contact Me
+Get in touch:
 
 **Website**: <a href="https://assafdori.com" target="_blank">https://assafdori.com</a><br>
 **Email**: <a href="mailto:hi@assafdori.com" target="_blank">hi@assafdori.com</a><br>

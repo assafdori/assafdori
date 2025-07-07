@@ -20,6 +20,6 @@ Working as a DevOps Engineer @ Compie Technologies
 
 #### 📜 Certifications
 
-- 🟧 [AWS Certified SysOps Administrator](https://www.credly.com/badges/6aa7925a-a079-47ca-b522-9647d90dafb5/public_url) — *Issued by AWS*
+- ☁️ [AWS Certified SysOps Administrator](https://www.credly.com/badges/6aa7925a-a079-47ca-b522-9647d90dafb5/public_url)
 
 

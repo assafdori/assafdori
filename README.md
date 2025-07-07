@@ -18,6 +18,8 @@ Working as a DevOps Engineer @ Compie Technologies
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/github-actions.svg" alt="github-actions" title="github-actions" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/argo-icon.svg" alt="argo-cd" title="argo-cd" width="40" height="40"/></p>
 
+#### 📜 Certifications
 
+- 🟧 [AWS Certified SysOps Administrator](https://www.credly.com/badges/6aa7925a-a079-47ca-b522-9647d90dafb5/public_url) — *Issued by AWS*
 
 
